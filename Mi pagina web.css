@@ -1,0 +1,18 @@
+body{
+	border: 30xp solid;
+	margin-left: 15px;
+	margin-right: 15px;
+	border-color: #000000;
+	background-color: #ffffcc;
+	margin-top: 30px;
+}
+p{
+	margin-left: 15xp;
+	margin-right: 15xp;
+	text-align: justify;
+}
+img{
+	border-style: solid double;
+	border-width: 15px;
+	border-color: red pink black orange; 
+}
